@@ -1,0 +1,14 @@
+{
+    "name": "JSStringToolsAssembly",
+    "rootNamespace": "JSeger.Utilities.Stringtools",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
