@@ -1,8 +1,8 @@
 {
   "name": "com.jsegerdev.stringtools",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName": "JSeger String Utilities",
-  "description": "Mono Utilities",
+  "description": "String Utilities",
   "unity": "2022.3",
   "author": {
     "name": "Joseph Seger",
